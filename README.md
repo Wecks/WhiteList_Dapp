@@ -8,3 +8,7 @@ I will use the hardhat builder here and code this Dapp in solidity/javascript.
 
 For the front-end part, some JS frameworks like React and Next Js will be used along with the [Web3Modal library](https://github.com/WalletConnect/web3modal).
 
+## Result
+
+[Here](https://white-list-dapp-my-app-8hvz.vercel.app/) is the website which I have created with this code. 
+
