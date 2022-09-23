@@ -10,5 +10,5 @@ For the front-end part, some JS frameworks like React and Next Js will be used a
 
 ## Result
 
-[Here](https://white-list-dapp-my-app-8hvz.vercel.app/) is the website which I have created with this code. 
+[Here](https://white-list-dapp-my-app-8hvz.vercel.app/) is the webpage which I have created with this code. 
 
